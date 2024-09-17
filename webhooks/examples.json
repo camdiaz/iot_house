@@ -1,0 +1,26 @@
+{
+    "led1on": {
+        "method": "GET",
+        "url": "http://<Tu_IP>/led1on",
+        "content_type": "text/plain",
+        "body": ""
+    },
+    "led1off": {
+        "method": "GET",
+        "url": "http://<Tu_IP>/led1off",
+        "content_type": "text/plain",
+        "body": ""
+    },
+    "led2on": {
+        "method": "GET",
+        "url": "http://<Tu_IP>/led2on",
+        "content_type": "text/plain",
+        "body": ""
+    },
+    "led2off": {
+        "method": "GET",
+        "url": "http://<Tu_IP>/led2off",
+        "content_type": "text/plain",
+        "body": ""
+    }
+}
