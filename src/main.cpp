@@ -12,8 +12,8 @@
  
 char auth[] = BLYNK_AUTH_TOKEN;
 
-char ssid[] = "Cam";  // type your wifi name
-char pass[] = "cam0401*";  // type your wifi password
+char ssid[] = "iot";  // type your wifi name
+char pass[] = "11111";  // type your wifi password
  
 int M1PWM = 22;
 int M2PWM = 19;
